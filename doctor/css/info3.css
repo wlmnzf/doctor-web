@@ -1,0 +1,108 @@
+.info3 .content
+{
+	margin-top:50px;
+}
+.info3 .content .tab
+{
+	background:url(../img/shuye2.png) no-repeat;
+	width:100%;
+	/*margin: 0 auto;*/
+	
+	height:500px;
+	background-size:100% 100%;
+}
+
+.info3 .content .question
+{
+	width:100%;
+	height:150px;
+}
+
+.info3 .content .pic
+{
+	width:100%;
+	height:100px;
+	position: relative;
+}
+
+.info3 .content .pic .line
+{
+	width:30%;
+	border-top:1px #ebebeb solid;
+	height:1px;
+	margin-top:75px;
+}
+
+.info3 .content .pic .left
+{
+	float:left;
+}
+
+.info3 .content .pic .right
+{
+	float:right;
+}
+
+.info3 .content .pic .kuang
+{
+	width:35%;
+	margin:25px auto 0 auto;
+	height:60px;
+	
+	position: absolute;
+    left: 0;
+    right: 0;
+    margin: 45px auto 0 auto;
+    
+    
+    background-color: #ebebeb;
+    
+    text-align:center;
+    line-height:60px;
+    font-size:28px;
+    color:#616161;
+}
+
+.info3 .content .question .text
+{
+	text-align: center;
+	width:100%;
+	margin-top:22px;
+	font-size:23px;
+	color:#d5d3d4;
+}
+
+.info3 .content .problemlist
+{
+	width:100%;
+	height:400px;
+	margin-top:55px
+}
+
+.info3 .content .problemlist .problem
+{
+	width:20%;
+	margin:0 2.5%;
+	float:left;
+    height:auto;
+}
+
+.info3 .content .problemlist .problem .pic
+{
+	width:100%;
+	height:auto;
+}
+
+.info3 .content .problemlist .problem .pic img
+{
+	width:100%
+}
+
+.info3 .content .problemlist .problem .text
+{
+	width:100%;
+	text-align: center;
+	height:20px;
+	color:#b4b2b3;
+	font-size:15px;
+}
