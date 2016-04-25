@@ -1,0 +1,34 @@
+.aboutus .map
+{
+	width: 100%;
+	max-width: 1080px;
+	margin:0 auto;
+	
+	/*background:url(../img/map.jpg) no-repeat;*/
+}
+
+.aboutus .map img
+{
+	width:100%;
+}
+
+.aboutus .content
+{
+	width:80%;
+	margin:0 auto;
+	max-width:1080px;
+}
+
+
+.aboutus .content .title
+{
+	/*display:inline-block;*/
+	font-size:23px;
+	margin-left:10px;
+}
+
+.aboutus .content .together
+{
+	width:80%;
+	margin:0 auto;
+}
