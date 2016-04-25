@@ -1,0 +1,31 @@
+.hr .content
+{
+	width:80%;
+	margin:30px auto;
+	max-width:1080px;
+}
+
+.hr .content .hr_list
+{
+	width:50%;
+	margin:0 auto;
+}
+.hr .content .hr_list table
+{
+	width:100%;
+}
+
+.hr .content .hr_list table tr
+{
+	height:40px;
+	text-align: center;
+
+}
+
+.hr .content .hr_list table tr td
+{
+	width:170px;
+	font-size: 17px;
+	font-weight:500
+}
+
