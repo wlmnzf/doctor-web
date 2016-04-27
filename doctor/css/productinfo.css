@@ -139,3 +139,14 @@
 	font-size:28px;
 	color:#646466;
 }
+
+
+.productinfo .banner
+{
+	height:100px;
+	background-color:#f0f0f0;
+	width:125%;
+	margin-left:-12.5%;
+}
+
+

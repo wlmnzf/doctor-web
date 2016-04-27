@@ -178,3 +178,16 @@ body,html{margin:0;padding:0;}
 {
 	color:#cac8c9;
 }
+
+
+
+
+.left
+{
+	float:left;
+}
+
+.right
+{
+	float:right;
+}
