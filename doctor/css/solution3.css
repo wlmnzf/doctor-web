@@ -1,0 +1,94 @@
+.solution3 .content
+{
+	width:80%;
+	max-width:1080px;
+	margin:0 auto;
+}
+
+.solution3 .content .tab
+{
+	width:100%;
+	height:600px;
+	background: url(../img/tuopu.png) no-repeat;
+	background-size:100% 100%;
+	
+}
+.solution3 .kuan
+{
+	width:80%;
+	height:100%;
+	margin:0 auto;
+}
+.solution3 .content .tab .text
+{
+	width:160px;
+	height:190px;
+	background:url(../img/poster_circle.png) no-repeat;
+	float:right;
+	margin-right:30px;
+	background-size:100% 100%;
+}
+
+.solution3 .content .function
+{
+	padding-top:16px;
+	width:100%;
+	/*height:300px;*/
+	overflow: hidden;
+	zoom: 1;
+	background-color: #f1eff0;
+}
+
+.solution3 .content .function .pic
+{
+	background:url(../img/type_circle.png)  no-repeat;
+	background-size:100% 100%;
+	width:250px;
+	height:165px;
+	margin:0 auto;
+	position: relative;
+	
+}
+
+.solution3 .content .function .pic p:first-child
+{
+	 width: 100%;
+    /* height: 50%; */
+    /* line-height: 20px; */
+    font-size: 25px;
+    top: 5%;
+    text-align: center;
+    position: absolute;
+    color: #d1cdcc;
+}
+
+.solution3 .content .function .pic p:last-child
+{
+    width: 100%;
+    position: absolute;
+    font-size: 35px;
+    bottom: 4%;
+    text-align: center;
+    color: #9b9796;
+}
+
+.solution3 .content .function .pic_list
+{
+	width:80%;
+	/*height:155px;*/
+	margin:30px auto;
+}
+.solution3 .content .function .pic_list .pic_item
+{
+	width:25%;
+	height:100%;
+	float:left;
+	text-align:center;
+	margin:10px 0 20px 0;
+}
+
+.solution3 .content .function .pic_list .pic_item img
+{
+	width:70%;
+	margin:0 auto;
+}
