@@ -85,10 +85,408 @@
 	float:left;
 	text-align:center;
 	margin:10px 0 20px 0;
-}
+} 
 
 .solution3 .content .function .pic_list .pic_item img
 {
 	width:70%;
 	margin:0 auto;
+}
+
+.solution3 .content  .introduce
+{
+	width:100%;
+	height:500px;
+}
+
+.solution3 .content  .introduce >.pic
+{
+	float:left;
+	width:50%;
+	height:100%;
+	text-align: center;
+	/*margin-top:10%;*/
+}
+
+.solution3 .content  .introduce >.pic img
+{
+	/*width:100%;*/
+	height:80%;
+	margin:10% auto;
+}
+.solution3 .content  .introduce .split
+{
+	width:5%;
+	height:100%;
+	float:left;
+}
+.solution3 .content  .introduce .split img
+{
+	/*width:20px;*/
+	height:100%;
+}
+
+.solution3 .content  .introduce .information
+{
+	width:45%;
+	float:right;
+}
+
+.solution3 .content  .introduce .information .pic
+{
+	width:60%;
+	margin:0 auto;
+}
+.solution3 .content  .introduce .information .pic img
+{
+	width:100%;
+}
+
+
+
+.solution3 .content  .introduce .information .name
+{
+	width:100%;
+	height:70px;
+}
+.solution3 .content  .introduce .information .name .cn,.solution3 .content  .introduce1 .text .cn
+{
+	width:100%;
+	text-align: center;
+	font-size:25px;
+	color:#757575;
+	margin:0;
+	line-height:35px
+}
+
+.solution3 .content  .introduce .information .name .en,.solution3 .content  .introduce1 .text .en
+{
+	width:100%;
+	text-align: center;
+	font-size:14px;
+	color:#757575;
+	margin:0;
+	line-height:35px;
+}
+
+.solution3 .content  .introduce .information .useful
+{
+	width:100%;
+	/*height: 50px;*/
+	margin-top:10px;
+}
+.solution3 .content  .introduce .information .useful p
+{
+	width:100%;
+	margin:0;
+	text-align: center;
+	font-size:15px;
+	color:#9b9796;
+	line-height:25px;
+}
+
+.solution3 .content  .introduce .information .description
+{
+	margin-top:20px;
+	width:100%;
+	text-align:center;
+	height:40px;
+}
+
+.solution3 .content  .introduce .information .description p
+{
+	line-height:20px;
+	color:#757575;
+	margin:0
+}
+
+
+.solution3 .content  .introduce1 
+{
+	width:100%;
+	height:400px;
+	margin-top:30px;
+}
+.solution3 .content  .introduce1 .pic
+{
+	width:100%;
+	overflow:hidden;
+}
+
+.solution3 .content  .introduce1 .pic img
+{
+	width:100%;
+}
+
+.solution3 .content  .introduce1 .text
+{
+	margin:20px 0;
+}
+
+.solution3 .content  .introduce1 .pic_list
+{
+	width:100%;
+	height:200px;
+}
+
+.solution3 .content  .introduce1 .pic_list .pic
+{
+	width:50%;
+	float:left;
+	overflow: hidden;
+	zoom:1;
+	text-align: center;
+}
+.solution3 .content  .introduce1 .pic_list .pic img
+{
+	width:50%;
+}
+
+.solution3 .content  .introduce1 .pic_list .text
+{
+	width:50%;
+	float:right;
+	height:100%;
+}
+
+.solution3 .content  .introduce1 .pic_list .text .circle
+{
+	width:90%;
+	height:90%;
+	background: url(../img/ship_circle.png) no-repeat;
+	background-size: 100% 100%;
+	margin:5% auto;
+}
+
+.solution3 .content  .introduce1 .pic_list .text .circle .normal
+{
+	width: 67%;
+    /*text-align: center;*/
+    font-size: 12px;
+    float: right;
+    margin-right: 7%;
+    color:#9b9796;
+    margin-top:10%;
+    
+}
+.solution3 .content  .introduce1 .pic_list .text .circle .note
+{
+	/*clear:both;*/
+    width: 67%;
+    text-align: center;
+    font-size: 16px;
+    float: right;
+    margin-right: 7%;
+    color:white;
+    margin-top: 10%;
+    background-color: #8d8d8d;
+    height:26px;
+    line-height:26px;
+}
+
+
+
+
+.solution3 .content  .introduce2
+{
+	width:100%;
+	height:550px;
+}
+
+.solution3 .content  .introduce2 >.pic
+{
+	float:right;
+	width:50%;
+	height:100%;
+	text-align: center;
+	/*margin-top:10%;*/
+}
+
+.solution3 .content  .introduce2 >.pic img
+{
+	/*width:100%;*/
+	height:80%;
+	margin:10% auto;
+}
+.solution3 .content  .introduce2 .split
+{
+	width:5%;
+	height:100%;
+	float:left;
+}
+.solution3 .content  .introduce2 .split img
+{
+	/*width:20px;*/
+	height:100%;
+}
+
+.solution3 .content  .introduce2 .information
+{
+	width:45%;
+	float:left;
+}
+
+.solution3 .content  .introduce2 .information .pic
+{
+	width:60%;
+	margin:0 auto;
+}
+.solution3 .content  .introduce2 .information .pic img
+{
+	width:100%;
+}
+
+
+
+.solution3 .content  .introduce2 .information .name
+{
+	width:100%;
+	height:70px;
+	margin:20px 0;
+}
+.solution3 .content  .introduce2 .information .name .cn,.solution3 .content  .introduce1 .text .cn,.solution3 .content  .introduce4 .title .cn
+{
+	width:100%;
+	text-align: center;
+	font-size:25px;
+	color:#757575;
+	margin:0;
+	line-height:35px
+}
+
+.solution3 .content  .introduce2 .information .name .en,.solution3 .content  .introduce1 .text .en,.solution3 .content  .introduce4 .title .en
+{
+	width:100%;
+	text-align: center;
+	font-size:14px;
+	color:#757575;
+	margin:0;
+	line-height:35px;
+}
+
+.solution3 .content  .introduce2 .information .useful
+{
+	width:100%;
+	/*height: 50px;*/
+	margin:10px 0;
+}
+.solution3 .content  .introduce2 .information .useful p
+{
+	width:100%;
+	margin:0;
+	text-align: center;
+	font-size:15px;
+	color:#9b9796;
+	line-height:25px;
+}
+
+.solution3 .content  .introduce2 .information .description
+{
+	margin-top:20px;
+	width:100%;
+	text-align:center;
+	height:40px;
+	margin:10px 0;
+}
+
+.solution3 .content  .introduce2 .information .description p
+{
+	line-height:20px;
+	color:#757575;
+	margin:0
+}
+
+
+
+.solution3 .content  .introduce3
+{
+	width:100%;
+	height:400px;
+	margin-top:30px;
+}
+.solution3 .content  .introduce3 .pic
+{
+	width:100%;
+	overflow:hidden;
+}
+
+.solution3 .content  .introduce3 .pic img
+{
+	width:100%;
+}
+
+.solution3 .content  .introduce3 .text
+{
+	margin:20px 0;
+}
+
+.solution3 .content  .introduce3 .pic_list
+{
+	width:100%;
+	height:200px;
+}
+
+.solution3 .content  .introduce3 .pic_list .pic
+{
+	width:50%;
+	float:left;
+	overflow: hidden;
+	zoom:1;
+	text-align: center;
+}
+.solution3 .content  .introduce3 .pic_list .pic img
+{
+	width:50%;
+}
+
+.solution3 .content  .introduce3 .pic_list .text
+{
+	width:50%;
+	float:left;
+	height:100%;
+}
+
+.solution3 .content  .introduce3 .pic_list .text .circle
+{
+	width:90%;
+	height:90%;
+	background: url(../img/type_circle1.png) no-repeat;
+	background-size: 100% 100%;
+	margin:5% auto;
+}
+
+.solution3 .content  .introduce3 .pic_list .text .circle .normal
+{
+	width: 67%;
+    text-align: center;
+    margin:10% auto;
+    font-size: 12px;
+    /*float: right;
+    margin-right: 7%;*/
+    color:#9b9796;
+    /*margin-top:10%;*/
+    
+}
+.solution3 .content  .introduce3 .pic_list .text .circle .note
+{
+	/*clear:both;*/
+    width: 67%;
+    text-align: center;
+    font-size: 16px;
+    /*float: right;*/
+    /*margin-right: 7%;*/
+   
+    color:white;
+    margin: 10% auto;
+    background-color: #8d8d8d;
+    height:26px;
+    line-height:26px;
+}
+
+
+
+
+.solution3 .content  .introduce4 .title
+{
+	margin-top:30px;
 }
